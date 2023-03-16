@@ -1,1 +1,1 @@
-# data-analysis
+# Statistics for data science
